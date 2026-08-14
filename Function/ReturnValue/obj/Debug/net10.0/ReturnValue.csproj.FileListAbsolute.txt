@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\ReturnValue\bin\Debug\net10.0\ReturnValue.exe
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\ReturnValue\bin\Debug\net10.0\ReturnValue.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\ReturnValue\bin\Debug\net10.0\ReturnValue.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\ReturnValue\bin\Debug\net10.0\ReturnValue.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\ReturnValue\bin\Debug\net10.0\ReturnValue.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\ReturnValue\obj\Debug\net10.0\ReturnValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\ReturnValue\obj\Debug\net10.0\ReturnValue.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\ReturnValue\obj\Debug\net10.0\ReturnValue.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\ReturnValue\obj\Debug\net10.0\ReturnValue.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\ReturnValue\obj\Debug\net10.0\ReturnValue.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\ReturnValue\obj\Debug\net10.0\ReturnValue.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\ReturnValue\obj\Debug\net10.0\refint\ReturnValue.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\ReturnValue\obj\Debug\net10.0\ReturnValue.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\ReturnValue\obj\Debug\net10.0\ReturnValue.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\ReturnValue\obj\Debug\net10.0\ref\ReturnValue.dll

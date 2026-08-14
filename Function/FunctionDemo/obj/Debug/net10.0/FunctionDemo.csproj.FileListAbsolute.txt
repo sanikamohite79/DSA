@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\FunctionDemo\bin\Debug\net10.0\FunctionDemo.exe
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\FunctionDemo\bin\Debug\net10.0\FunctionDemo.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\FunctionDemo\bin\Debug\net10.0\FunctionDemo.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\FunctionDemo\bin\Debug\net10.0\FunctionDemo.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\FunctionDemo\bin\Debug\net10.0\FunctionDemo.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\FunctionDemo\obj\Debug\net10.0\FunctionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\FunctionDemo\obj\Debug\net10.0\FunctionDemo.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\FunctionDemo\obj\Debug\net10.0\FunctionDemo.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\FunctionDemo\obj\Debug\net10.0\FunctionDemo.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\FunctionDemo\obj\Debug\net10.0\FunctionDemo.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\FunctionDemo\obj\Debug\net10.0\FunctionDemo.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\FunctionDemo\obj\Debug\net10.0\refint\FunctionDemo.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\FunctionDemo\obj\Debug\net10.0\FunctionDemo.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\FunctionDemo\obj\Debug\net10.0\FunctionDemo.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\FunctionDemo\obj\Debug\net10.0\ref\FunctionDemo.dll

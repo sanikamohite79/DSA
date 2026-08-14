@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticFunction\bin\Debug\net10.0\StaticFunction.exe
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticFunction\bin\Debug\net10.0\StaticFunction.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticFunction\bin\Debug\net10.0\StaticFunction.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticFunction\bin\Debug\net10.0\StaticFunction.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticFunction\bin\Debug\net10.0\StaticFunction.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticFunction\obj\Debug\net10.0\StaticFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticFunction\obj\Debug\net10.0\StaticFunction.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticFunction\obj\Debug\net10.0\StaticFunction.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticFunction\obj\Debug\net10.0\StaticFunction.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticFunction\obj\Debug\net10.0\StaticFunction.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticFunction\obj\Debug\net10.0\StaticFunction.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticFunction\obj\Debug\net10.0\refint\StaticFunction.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticFunction\obj\Debug\net10.0\StaticFunction.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticFunction\obj\Debug\net10.0\StaticFunction.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticFunction\obj\Debug\net10.0\ref\StaticFunction.dll

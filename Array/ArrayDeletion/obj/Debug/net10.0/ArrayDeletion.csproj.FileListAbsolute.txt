@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayDeletion\obj\Debug\net10.0\ArrayDeletion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayDeletion\obj\Debug\net10.0\ArrayDeletion.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayDeletion\obj\Debug\net10.0\ArrayDeletion.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayDeletion\obj\Debug\net10.0\ArrayDeletion.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayDeletion\obj\Debug\net10.0\ArrayDeletion.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayDeletion\bin\Debug\net10.0\ArrayDeletion.exe
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayDeletion\bin\Debug\net10.0\ArrayDeletion.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayDeletion\bin\Debug\net10.0\ArrayDeletion.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayDeletion\bin\Debug\net10.0\ArrayDeletion.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayDeletion\bin\Debug\net10.0\ArrayDeletion.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayDeletion\obj\Debug\net10.0\ArrayDeletion.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayDeletion\obj\Debug\net10.0\refint\ArrayDeletion.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayDeletion\obj\Debug\net10.0\ArrayDeletion.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayDeletion\obj\Debug\net10.0\ArrayDeletion.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayDeletion\obj\Debug\net10.0\ref\ArrayDeletion.dll

@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\Arrayupdate\obj\Debug\net10.0\ArrayUpdate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\Arrayupdate\obj\Debug\net10.0\ArrayUpdate.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\Arrayupdate\obj\Debug\net10.0\ArrayUpdate.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\Arrayupdate\obj\Debug\net10.0\ArrayUpdate.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\Arrayupdate\obj\Debug\net10.0\ArrayUpdate.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\Arrayupdate\bin\Debug\net10.0\ArrayUpdate.exe
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\Arrayupdate\bin\Debug\net10.0\ArrayUpdate.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\Arrayupdate\bin\Debug\net10.0\ArrayUpdate.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\Arrayupdate\bin\Debug\net10.0\ArrayUpdate.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\Arrayupdate\bin\Debug\net10.0\ArrayUpdate.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\Arrayupdate\obj\Debug\net10.0\ArrayUpdate.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\Arrayupdate\obj\Debug\net10.0\refint\ArrayUpdate.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\Arrayupdate\obj\Debug\net10.0\ArrayUpdate.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\Arrayupdate\obj\Debug\net10.0\ArrayUpdate.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\Arrayupdate\obj\Debug\net10.0\ref\ArrayUpdate.dll

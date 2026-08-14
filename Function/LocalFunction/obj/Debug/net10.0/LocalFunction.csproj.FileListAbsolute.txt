@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\LocalFunction\obj\Debug\net10.0\LocalFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\LocalFunction\obj\Debug\net10.0\LocalFunction.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\LocalFunction\obj\Debug\net10.0\LocalFunction.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\LocalFunction\obj\Debug\net10.0\LocalFunction.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\LocalFunction\obj\Debug\net10.0\LocalFunction.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\LocalFunction\bin\Debug\net10.0\LocalFunction.exe
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\LocalFunction\bin\Debug\net10.0\LocalFunction.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\LocalFunction\bin\Debug\net10.0\LocalFunction.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\LocalFunction\bin\Debug\net10.0\LocalFunction.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\LocalFunction\bin\Debug\net10.0\LocalFunction.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\LocalFunction\obj\Debug\net10.0\LocalFunction.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\LocalFunction\obj\Debug\net10.0\refint\LocalFunction.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\LocalFunction\obj\Debug\net10.0\LocalFunction.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\LocalFunction\obj\Debug\net10.0\LocalFunction.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\LocalFunction\obj\Debug\net10.0\ref\LocalFunction.dll

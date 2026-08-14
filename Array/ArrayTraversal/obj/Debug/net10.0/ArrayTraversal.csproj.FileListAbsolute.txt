@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayTraversal\obj\Debug\net10.0\ArrayTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayTraversal\obj\Debug\net10.0\ArrayTraversal.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayTraversal\obj\Debug\net10.0\ArrayTraversal.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayTraversal\obj\Debug\net10.0\ArrayTraversal.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayTraversal\obj\Debug\net10.0\ArrayTraversal.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayTraversal\bin\Debug\net10.0\ArrayTraversal.exe
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayTraversal\bin\Debug\net10.0\ArrayTraversal.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayTraversal\bin\Debug\net10.0\ArrayTraversal.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayTraversal\bin\Debug\net10.0\ArrayTraversal.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayTraversal\bin\Debug\net10.0\ArrayTraversal.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayTraversal\obj\Debug\net10.0\ArrayTraversal.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayTraversal\obj\Debug\net10.0\refint\ArrayTraversal.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayTraversal\obj\Debug\net10.0\ArrayTraversal.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayTraversal\obj\Debug\net10.0\ArrayTraversal.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayTraversal\obj\Debug\net10.0\ref\ArrayTraversal.dll

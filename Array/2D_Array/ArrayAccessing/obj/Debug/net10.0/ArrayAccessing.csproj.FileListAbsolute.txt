@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\ArrayAccessing\obj\Debug\net10.0\ArrayAccessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\ArrayAccessing\obj\Debug\net10.0\ArrayAccessing.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\ArrayAccessing\obj\Debug\net10.0\ArrayAccessing.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\ArrayAccessing\obj\Debug\net10.0\ArrayAccessing.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\ArrayAccessing\obj\Debug\net10.0\ArrayAccessing.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\ArrayAccessing\bin\Debug\net10.0\ArrayAccessing.exe
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\ArrayAccessing\bin\Debug\net10.0\ArrayAccessing.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\ArrayAccessing\bin\Debug\net10.0\ArrayAccessing.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\ArrayAccessing\bin\Debug\net10.0\ArrayAccessing.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\ArrayAccessing\bin\Debug\net10.0\ArrayAccessing.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\ArrayAccessing\obj\Debug\net10.0\ArrayAccessing.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\ArrayAccessing\obj\Debug\net10.0\refint\ArrayAccessing.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\ArrayAccessing\obj\Debug\net10.0\ArrayAccessing.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\ArrayAccessing\obj\Debug\net10.0\ArrayAccessing.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\ArrayAccessing\obj\Debug\net10.0\ref\ArrayAccessing.dll

@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticVariable\obj\Debug\net10.0\StaticVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticVariable\obj\Debug\net10.0\StaticVariable.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticVariable\obj\Debug\net10.0\StaticVariable.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticVariable\obj\Debug\net10.0\StaticVariable.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticVariable\obj\Debug\net10.0\StaticVariable.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticVariable\bin\Debug\net10.0\StaticVariable.exe
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticVariable\bin\Debug\net10.0\StaticVariable.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticVariable\bin\Debug\net10.0\StaticVariable.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticVariable\bin\Debug\net10.0\StaticVariable.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticVariable\bin\Debug\net10.0\StaticVariable.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticVariable\obj\Debug\net10.0\StaticVariable.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticVariable\obj\Debug\net10.0\refint\StaticVariable.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticVariable\obj\Debug\net10.0\StaticVariable.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticVariable\obj\Debug\net10.0\StaticVariable.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StaticVariable\obj\Debug\net10.0\ref\StaticVariable.dll

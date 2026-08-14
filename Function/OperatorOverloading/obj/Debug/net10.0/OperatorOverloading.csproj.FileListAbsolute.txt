@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\OperatorOverloading\obj\Debug\net10.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\OperatorOverloading\obj\Debug\net10.0\OperatorOverloading.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\OperatorOverloading\obj\Debug\net10.0\OperatorOverloading.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\OperatorOverloading\obj\Debug\net10.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\OperatorOverloading\obj\Debug\net10.0\OperatorOverloading.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\OperatorOverloading\bin\Debug\net10.0\OperatorOverloading.exe
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\OperatorOverloading\bin\Debug\net10.0\OperatorOverloading.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\OperatorOverloading\bin\Debug\net10.0\OperatorOverloading.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\OperatorOverloading\bin\Debug\net10.0\OperatorOverloading.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\OperatorOverloading\bin\Debug\net10.0\OperatorOverloading.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\OperatorOverloading\obj\Debug\net10.0\OperatorOverloading.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\OperatorOverloading\obj\Debug\net10.0\refint\OperatorOverloading.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\OperatorOverloading\obj\Debug\net10.0\OperatorOverloading.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\OperatorOverloading\obj\Debug\net10.0\OperatorOverloading.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\OperatorOverloading\obj\Debug\net10.0\ref\OperatorOverloading.dll

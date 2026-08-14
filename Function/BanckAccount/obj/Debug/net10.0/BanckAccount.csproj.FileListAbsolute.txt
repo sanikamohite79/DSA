@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\BanckAccount\bin\Debug\net10.0\BanckAccount.exe
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\BanckAccount\bin\Debug\net10.0\BanckAccount.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\BanckAccount\bin\Debug\net10.0\BanckAccount.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\BanckAccount\bin\Debug\net10.0\BanckAccount.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\BanckAccount\bin\Debug\net10.0\BanckAccount.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\BanckAccount\obj\Debug\net10.0\BanckAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\BanckAccount\obj\Debug\net10.0\BanckAccount.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\BanckAccount\obj\Debug\net10.0\BanckAccount.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\BanckAccount\obj\Debug\net10.0\BanckAccount.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\BanckAccount\obj\Debug\net10.0\BanckAccount.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\BanckAccount\obj\Debug\net10.0\BanckAccount.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\BanckAccount\obj\Debug\net10.0\refint\BanckAccount.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\BanckAccount\obj\Debug\net10.0\BanckAccount.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\BanckAccount\obj\Debug\net10.0\BanckAccount.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\BanckAccount\obj\Debug\net10.0\ref\BanckAccount.dll

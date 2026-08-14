@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StackAndHeap\obj\Debug\net10.0\StackAndHeap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StackAndHeap\obj\Debug\net10.0\StackAndHeap.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StackAndHeap\obj\Debug\net10.0\StackAndHeap.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StackAndHeap\obj\Debug\net10.0\StackAndHeap.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StackAndHeap\obj\Debug\net10.0\StackAndHeap.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StackAndHeap\bin\Debug\net10.0\StackAndHeap.exe
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StackAndHeap\bin\Debug\net10.0\StackAndHeap.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StackAndHeap\bin\Debug\net10.0\StackAndHeap.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StackAndHeap\bin\Debug\net10.0\StackAndHeap.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StackAndHeap\bin\Debug\net10.0\StackAndHeap.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StackAndHeap\obj\Debug\net10.0\StackAndHeap.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StackAndHeap\obj\Debug\net10.0\refint\StackAndHeap.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StackAndHeap\obj\Debug\net10.0\StackAndHeap.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StackAndHeap\obj\Debug\net10.0\StackAndHeap.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\StackAndHeap\obj\Debug\net10.0\ref\StackAndHeap.dll

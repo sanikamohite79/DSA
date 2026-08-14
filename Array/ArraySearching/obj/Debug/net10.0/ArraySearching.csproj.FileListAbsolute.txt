@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArraySearching\obj\Debug\net10.0\ArraySearching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArraySearching\obj\Debug\net10.0\ArraySearching.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArraySearching\obj\Debug\net10.0\ArraySearching.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArraySearching\obj\Debug\net10.0\ArraySearching.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArraySearching\obj\Debug\net10.0\ArraySearching.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArraySearching\bin\Debug\net10.0\ArraySearching.exe
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArraySearching\bin\Debug\net10.0\ArraySearching.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArraySearching\bin\Debug\net10.0\ArraySearching.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArraySearching\bin\Debug\net10.0\ArraySearching.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArraySearching\bin\Debug\net10.0\ArraySearching.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArraySearching\obj\Debug\net10.0\ArraySearching.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArraySearching\obj\Debug\net10.0\refint\ArraySearching.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArraySearching\obj\Debug\net10.0\ArraySearching.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArraySearching\obj\Debug\net10.0\ArraySearching.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArraySearching\obj\Debug\net10.0\ref\ArraySearching.dll

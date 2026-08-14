@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\MemberFunction\obj\Debug\net10.0\MemberFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\MemberFunction\obj\Debug\net10.0\MemberFunction.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\MemberFunction\obj\Debug\net10.0\MemberFunction.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\MemberFunction\obj\Debug\net10.0\MemberFunction.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\MemberFunction\obj\Debug\net10.0\MemberFunction.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\MemberFunction\bin\Debug\net10.0\MemberFunction.exe
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\MemberFunction\bin\Debug\net10.0\MemberFunction.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\MemberFunction\bin\Debug\net10.0\MemberFunction.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\MemberFunction\bin\Debug\net10.0\MemberFunction.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\MemberFunction\bin\Debug\net10.0\MemberFunction.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\MemberFunction\obj\Debug\net10.0\MemberFunction.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\MemberFunction\obj\Debug\net10.0\refint\MemberFunction.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\MemberFunction\obj\Debug\net10.0\MemberFunction.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\MemberFunction\obj\Debug\net10.0\MemberFunction.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\MemberFunction\obj\Debug\net10.0\ref\MemberFunction.dll

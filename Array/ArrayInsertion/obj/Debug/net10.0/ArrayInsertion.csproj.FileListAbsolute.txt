@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayInsertion\obj\Debug\net10.0\ArrayInsertion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayInsertion\obj\Debug\net10.0\ArrayInsertion.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayInsertion\obj\Debug\net10.0\ArrayInsertion.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayInsertion\obj\Debug\net10.0\ArrayInsertion.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayInsertion\obj\Debug\net10.0\ArrayInsertion.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayInsertion\bin\Debug\net10.0\ArrayInsertion.exe
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayInsertion\bin\Debug\net10.0\ArrayInsertion.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayInsertion\bin\Debug\net10.0\ArrayInsertion.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayInsertion\bin\Debug\net10.0\ArrayInsertion.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayInsertion\bin\Debug\net10.0\ArrayInsertion.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayInsertion\obj\Debug\net10.0\ArrayInsertion.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayInsertion\obj\Debug\net10.0\refint\ArrayInsertion.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayInsertion\obj\Debug\net10.0\ArrayInsertion.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayInsertion\obj\Debug\net10.0\ArrayInsertion.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayInsertion\obj\Debug\net10.0\ref\ArrayInsertion.dll

@@ -1,0 +1,5 @@
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\LambdaFun\obj\Debug\net10.0\LambdaFun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\LambdaFun\obj\Debug\net10.0\LambdaFun.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\LambdaFun\obj\Debug\net10.0\LambdaFun.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\LambdaFun\obj\Debug\net10.0\LambdaFun.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Function\LambdaFun\obj\Debug\net10.0\LambdaFun.sourcelink.json

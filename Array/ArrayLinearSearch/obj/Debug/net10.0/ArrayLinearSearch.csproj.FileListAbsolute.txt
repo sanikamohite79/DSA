@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayLinearSearch\bin\Debug\net10.0\ArrayLinearSearch.exe
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayLinearSearch\bin\Debug\net10.0\ArrayLinearSearch.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayLinearSearch\bin\Debug\net10.0\ArrayLinearSearch.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayLinearSearch\bin\Debug\net10.0\ArrayLinearSearch.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayLinearSearch\bin\Debug\net10.0\ArrayLinearSearch.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayLinearSearch\obj\Debug\net10.0\ArrayLinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayLinearSearch\obj\Debug\net10.0\ArrayLinearSearch.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayLinearSearch\obj\Debug\net10.0\ArrayLinearSearch.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayLinearSearch\obj\Debug\net10.0\ArrayLinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayLinearSearch\obj\Debug\net10.0\ArrayLinearSearch.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayLinearSearch\obj\Debug\net10.0\ArrayLinearSearch.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayLinearSearch\obj\Debug\net10.0\refint\ArrayLinearSearch.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayLinearSearch\obj\Debug\net10.0\ArrayLinearSearch.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayLinearSearch\obj\Debug\net10.0\ArrayLinearSearch.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\ArrayLinearSearch\obj\Debug\net10.0\ref\ArrayLinearSearch.dll

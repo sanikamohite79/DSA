@@ -34,5 +34,5 @@ class Program
     {
         Console.WriteLine(search + "not Found in the array");
     }
-}[::-1
-int [] arr=new int[5]
+}
+}

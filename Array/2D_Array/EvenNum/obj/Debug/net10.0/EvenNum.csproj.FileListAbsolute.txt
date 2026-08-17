@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\EvenNum\obj\Debug\net10.0\EvenNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\EvenNum\obj\Debug\net10.0\EvenNum.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\EvenNum\obj\Debug\net10.0\EvenNum.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\EvenNum\obj\Debug\net10.0\EvenNum.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\EvenNum\obj\Debug\net10.0\EvenNum.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\EvenNum\bin\Debug\net10.0\EvenNum.exe
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\EvenNum\bin\Debug\net10.0\EvenNum.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\EvenNum\bin\Debug\net10.0\EvenNum.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\EvenNum\bin\Debug\net10.0\EvenNum.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\EvenNum\bin\Debug\net10.0\EvenNum.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\EvenNum\obj\Debug\net10.0\EvenNum.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\EvenNum\obj\Debug\net10.0\refint\EvenNum.dll
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\EvenNum\obj\Debug\net10.0\EvenNum.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\EvenNum\obj\Debug\net10.0\EvenNum.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP_GITHUB\DSA\Array\2D_Array\EvenNum\obj\Debug\net10.0\ref\EvenNum.dll
